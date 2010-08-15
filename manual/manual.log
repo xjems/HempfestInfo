@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.7.5)  6 JUL 2010 19:14
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.7.5)  14 AUG 2010 19:17
 entering extended mode
-**C:/Users/Talisha/Documents/manual/manual.tex
-(C:/Users/Talisha/Documents/manual/manual.tex
+**C:/Users/Talisha/Documents/HempfestInfo/manual/manual.tex
+(C:/Users/Talisha/Documents/HempfestInfo/manual/manual.tex
 LaTeX2e <2005/12/01>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
 rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
@@ -196,7 +196,7 @@ Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 )
-(C:\Users\Talisha\Documents\manual\manual.aux)
+(C:\Users\Talisha\Documents\HempfestInfo\manual\manual.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
@@ -273,7 +273,7 @@ LaTeX Warning: No \author given.
 {C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}] [2
 
 ]
-(C:\Users\Talisha\Documents\manual\manual.toc
+(C:\Users\Talisha\Documents\HempfestInfo\manual\manual.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -283,7 +283,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
  [3])
 \tf@toc=\write3
  [4]
-(C:\Users\Talisha\Documents\manual\faq.tex
+(C:\Users\Talisha\Documents\HempfestInfo\manual\faq.tex
 Chapter 1.
 LaTeX Font Info:    Try loading font information for OMS+lmr on input line 12.
 ("C:\Program Files\MiKTeX 2.8\tex\latex\lm\omslmr.fd"
@@ -295,7 +295,7 @@ LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10> not available
 
 
 ] [6])
-(C:\Users\Talisha\Documents\manual\generalinfo.tex [7] [8
+(C:\Users\Talisha\Documents\HempfestInfo\manual\generalinfo.tex [7] [8
 
 ]
 Chapter 2.
@@ -318,30 +318,32 @@ Overfull \hbox (9.6128pt too wide) in paragraph at lines 24--25
 
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 31.
-[10] [11] [12]) (C:\Users\Talisha\Documents\manual\lostandfound.tex [13]
-[14
+[10] [11] [12]
+Overfull \hbox (23.70909pt too wide) in paragraph at lines 73--74
+\T1/lmr/m/n/14.4 There are many pa-tient and le-gal groups at Seat-tle Hempfest
+.
+ []
 
-]
-Chapter 3.
-) [15] (C:\Users\Talisha\Documents\manual\manual.aux) ) 
+) [13] (C:\Users\Talisha\Documents\HempfestInfo\manual\manual.aux) ) 
 Here is how much of TeX's memory you used:
- 2387 strings out of 495285
- 29913 string characters out of 3180389
+ 2384 strings out of 495285
+ 29970 string characters out of 3180389
  85439 words of memory out of 3000000
  5529 multiletter control sequences out of 15000+200000
  59019 words of font info for 57 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 27i,6n,22p,690b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX
- 2.8/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.8/fonts/enc/dv
-ips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.8/fonts/type1/public/lm/lmbx10.pfb>
-<C:/Program Files/MiKTeX 2.8/fonts/type1/public/lm/lmbx12.pfb><C:/Program Files
-/MiKTeX 2.8/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKTeX 2.8/fonts/
-type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/lm/lm
-r17.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/lm/lmsy10.pfb>
-Output written on manual.pdf (15 pages, 169632 bytes).
+ 27i,6n,22p,703b,221s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program
+ Files/MiKTeX 2.8/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program Files/MiKTeX 2.8
+/fonts/enc/dvips/lm/lm-ec.enc}<C:/Program Files/MiKTeX 2.8/fonts/type1/public/l
+m/lmbx10.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/lm/lmbx12.pfb><C:/
+Program Files/MiKTeX 2.8/fonts/type1/public/lm/lmr10.pfb><C:/Program Files/MiKT
+eX 2.8/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1
+/public/lm/lmr17.pfb><C:/Program Files/MiKTeX 2.8/fonts/type1/public/lm/lmsy10.
+pfb>
+Output written on manual.pdf (13 pages, 166583 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
